@@ -1,12 +1,12 @@
-#campusnet web/app project - project description
+# campusnet web/app project - project description
 The project description of the whole project is given in this file.
 
 *Note: This is a markdown (.md) file. [See more on wikipedia.org](https://en.wikipedia.org/wiki/Markdown)*
 
-#Contents
+# Contents
 * Features
 
-##Features
+## Features
 
 1. Public dynamically generated feed for the public.
 
