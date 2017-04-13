@@ -26,7 +26,14 @@ Guidelines:
 6) Push the fork/clone to the main cla repository.
 
 # Developed in
-Backend for web: django 1.10.5
+Backend for web:
+front layer: NodeJS
+back layer: silicon framework(c++ web framework)
+
+Frontend:
+AngularJS
+
+See /dist/dependencies.md for more information.
 
 # Project
 Project description of the project is given in project_description.md
