@@ -27,10 +27,13 @@ Guidelines:
 
 # Developed in
 Backend for web:
-front layer: NodeJS
+
+front layer: NodeJS(sails framework)
+
 back layer: silicon framework(c++ web framework)
 
 Frontend:
+
 AngularJS
 
 See /dist/dependencies.md for more information.
