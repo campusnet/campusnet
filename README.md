@@ -36,7 +36,7 @@ Frontend:
 
 AngularJS
 
-See /dist/dependencies.md for more information.
+See dependencies.md for more information.
 
 # Project
 Project description of the project is given in project_description.md
