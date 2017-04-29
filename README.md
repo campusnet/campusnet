@@ -4,9 +4,9 @@ This is the official public repository for the development of campusnet project.
 # Contributions
 Contributions to this repository requires you to sign a Contributor's License Agreement(CLA), which is available in the "cla" repository of the organisation.
 
-[See current CLA.] (https://gist.github.com/jilvin/0b6337cff8e0ec54357bb76b527d7ee6)
+[See current CLA.](https://gist.github.com/jilvin/0b6337cff8e0ec54357bb76b527d7ee6)
 
-[See current CLA from our cla repository.] (https://github.com/campusnet/cla/blob/master/campusnet-cla)
+[See current CLA from our cla repository.](https://github.com/campusnet/cla/blob/master/campusnet-cla)
 
 Contributions made to the repository without signature conveys/implies your agreement with the
 same.
