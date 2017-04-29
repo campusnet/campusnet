@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++1y -pedantic -Wextra -O3 -DNDEBUG   CMakeFiles/example_with_all.dir/example_with_all.cpp.o  -o example_with_all -rdynamic -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread -lpthread 

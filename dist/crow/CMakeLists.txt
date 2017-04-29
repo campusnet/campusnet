@@ -33,6 +33,7 @@ include_directories("${PROJECT_SOURCE_DIR}")
  
 #add_subdirectory(src)
 add_subdirectory(examples)
+add_subdirectory(campusnet)
 if (MSVC)
 else()
 add_subdirectory(tests)

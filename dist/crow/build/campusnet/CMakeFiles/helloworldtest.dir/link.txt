@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++1y -pedantic -Wextra -O3 -DNDEBUG   CMakeFiles/helloworldtest.dir/helloworld.cpp.o  -o helloworldtest -rdynamic -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread -lpthread 
