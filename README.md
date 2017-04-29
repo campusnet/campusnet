@@ -30,11 +30,11 @@ Backend for web:
 
 front layer: NodeJS(sails framework)
 
-back layer: silicon framework(c++ web framework)
+back layer: crow(c++ web framework)
 
 Frontend:
 
-AngularJS
+HTML5, CSS3, JS
 
 See dependencies.md for more information.
 
