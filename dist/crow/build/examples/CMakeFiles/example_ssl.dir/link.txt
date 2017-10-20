@@ -1,1 +1,0 @@
-/usr/bin/c++    -Wall -std=c++1y -pedantic -Wextra -O3 -DNDEBUG   CMakeFiles/example_ssl.dir/ssl/example_ssl.cpp.o  -o example_ssl -rdynamic -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread -lpthread -lssl -lcrypto 

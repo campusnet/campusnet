@@ -25,18 +25,5 @@ Guidelines:
 
 6) Push the fork/clone to the main cla repository.
 
-# Developed in
-Backend for web:
-
-front layer: NodeJS(sails framework)
-
-back layer: crow(c++ web framework)
-
-Frontend:
-
-HTML5, CSS3, JS
-
-See dependencies.md for more information.
-
 # Project
 Project description of the project is given in project_description.md
