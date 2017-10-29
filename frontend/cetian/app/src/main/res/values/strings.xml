@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cetian</string>
+
+    <!--for main activity-->
+    <string name="first_button_text">I am a CETian</string>
+    <string name="second_button_text">Use Guest Account</string>
+</resources>
