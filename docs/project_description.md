@@ -1,15 +1,13 @@
-# Campus Net web/app project - project description
+# Campus Net Web/App Project - Project Description
 The project description of the whole project is given in this file.
 
-*Note: This is a markdown (.md) file. [See more on wikipedia.org](https://en.wikipedia.org/wiki/Markdown)*
-
-# Contents
+### Contents
 * User Categories
 * Entities List
 * Administration
 * Features
 
-## User Categories
+##### User Categories
 
 1. Student
 
@@ -17,7 +15,7 @@ The project description of the whole project is given in this file.
 
 3. Office Staff
 
-## Entities List
+##### Entities List
 
 1. Clubs
 
@@ -33,7 +31,7 @@ The project description of the whole project is given in this file.
 
 5. College Union
 
-## Administration
+##### Administration
 
 1. Campus Net Installation
 
@@ -43,7 +41,7 @@ The project description of the whole project is given in this file.
 3. Organizations
   * Passed on by previous administration or provisioned by campusnet installation administration.
 
-## Features
+##### Features
 
 1. Profile for all users.
 

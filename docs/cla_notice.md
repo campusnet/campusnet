@@ -1,8 +1,5 @@
-# campusnet
-This is the official public repository for the development of campusnet project.
-
-# Contributions
-Contributions to this repository requires you to sign a Contributor's License Agreement(CLA), which is available in the "cla" repository of the organisation.
+# Contributor's License Agreement
+Contributions to Campus Net repository requires you to sign a Contributor's License Agreement(CLA), which is available in the "cla" repository of the organisation.
 
 [See current CLA.](https://gist.github.com/jilvin/0b6337cff8e0ec54357bb76b527d7ee6)
 
@@ -19,13 +16,8 @@ Guidelines:
 
 3) Fork/Clone the cla repository of the organisation.
 
-4) Rename the file to your user id with '@' in the beginning.(Example: If your user id is tim, rename the file to @tim.)
+4) Rename the file to your user id with '@' in the beginning. (Example: If your user id is tim, rename the file to @tim.)
 
 5) Place the file in the individuals directory.
 
 6) Push the fork/clone to the main cla repository.
-
-# Project
-Project description of the project is given in project_description.md
-
-# Documentation
