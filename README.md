@@ -29,3 +29,4 @@ Guidelines:
 Project description of the project is given in project_description.md
 
 # Documentation
+[Read official documentation.](https://campusnet.github.io/campusnet/)
